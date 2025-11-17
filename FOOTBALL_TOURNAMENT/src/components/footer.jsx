@@ -15,13 +15,13 @@ export default function Footer() {
                         Organisers - Morning Footballers
                     </div>
                     <div>
-                        <img src={president} alt="Secretary of The Tournament" className='w-300, h-17'/>
-                        <p>President - Mr. Swadesh Chowdhury (+91-9876543210)</p>
+                        <img src={president} alt="Secretary of The Tournament" className='w-300, h-17' />
+                        <p>President - Mr. Swadesh Chowdhury </p>
 
                     </div>
                     <div>
                         <img src={secretary} alt="President of The Tournament" style={{ width: '100px', height: 'auto' }} />
-                       <p>Secretary - Mr. Mihir Mandal (+91-9796285635)</p> 
+                        <p>Secretary - Mr. Mihir Mandal </p>
                     </div>
                 </div>
 
