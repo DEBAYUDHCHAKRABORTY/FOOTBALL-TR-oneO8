@@ -22,9 +22,9 @@ export default function Navbar() {
 
     return (
         <div className="card relative">
-            <Menubar end={end} start={start} />
+            <Menubar end={end} start={start}/>
 
-            <div className="absolute inset-0 flex justify-center items-center pointer-events-none">
+            <div className="absolute inset-0 flex justify-center items-center">
                 <span className="text-lg font-semibold">
                     Morning Footballers Committee
                 </span>
