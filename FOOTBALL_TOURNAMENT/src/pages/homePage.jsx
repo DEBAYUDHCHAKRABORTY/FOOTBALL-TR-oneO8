@@ -1,4 +1,5 @@
 import Cards from "../components/card"
+import Footer from "../components/footer"
 import Navbar from "../components/navbar"
 
 export default function HomePage(){
@@ -6,6 +7,7 @@ export default function HomePage(){
         <>
             <Navbar/>
             <Cards/>
+            <Footer/>
         </>
-    )
+    );
 }
