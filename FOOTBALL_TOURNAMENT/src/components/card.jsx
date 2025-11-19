@@ -1,6 +1,9 @@
+import backgroundImage from "../assets/background.png";
+
+
 export default function Cards() {
   return (
-    <>
+    <div className="min-h-screen bg-cover bg-fixed bg-center bg-no-repeat" style={{ backgroundImage: `url(${backgroundImage})` }}>
       <div className="ml-20 mt-20">
         <h1 className="text-4xl font-serif">Tournament Starting...</h1>
       </div>
@@ -57,7 +60,7 @@ export default function Cards() {
         </div>
         <div className="mt-10 rounded-full bg-blue-200 w-80 h-80 shadow-2xl">
           <h1 className="text-3xl flex justify-center py-35">
-            IC 
+            IC
           </h1>
         </div>
         <div className="mt-10 rounded-full bg-blue-200 w-80 h-80 shadow-2xl">
@@ -66,6 +69,6 @@ export default function Cards() {
           </h1>
         </div>
       </div>
-    </>
+    </div>
   );
 }
