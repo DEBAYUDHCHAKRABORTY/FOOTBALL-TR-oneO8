@@ -1,4 +1,5 @@
-import Cards from "../components/card"
+// import Cards from "../components/card"
+import FootballBannar from "../components/bannar";
 import Footer from "../components/footer"
 import Guests from "../components/guests";
 import Navbar from "../components/navbar"
@@ -8,6 +9,7 @@ export default function HomePage(){
     return(
         <>
             <Navbar/>
+            <FootballBannar/>
             <Sponsors/>
             <Guests/>
             <Footer/>
