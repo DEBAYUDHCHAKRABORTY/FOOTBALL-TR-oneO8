@@ -27,7 +27,7 @@ export default function Footer() {
                     </div>
                    <div className=" text-4xl pb-1">
                     <h3 className='font-bold mb-2.5'>About Us</h3>
-                    <p className='font-extralight text-xl'>⚽ <b><u>Our Story</u></b>: From Hospital Field to Football Hub
+                    <p className='font-extralight text-xl text-left'>⚽ <b><u>Our Story</u></b>: From Hospital Field to Football Hub
                         Our journey began on a humble three-quarters section of the Mathurapur Hospital Field. What started as a small seed of a dream, planted by a few passionate local players with minimal resources, has grown into a vibrant football initiative. Beyond just playing the game, our mission was to elevate football to a central sport in our region. From organizing local tournaments to nurturing young talents through focused training, every step has been driven by the spirit of teamwork and a deep love for the game. Today, our endeavor, which began on that limited patch of ground, stands as a testament to how community effort can transform the local football landscape.</p>
                 </div>
                 <div className="social meria m-auto">
