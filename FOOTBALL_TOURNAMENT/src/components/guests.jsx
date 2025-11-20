@@ -12,8 +12,6 @@ export default function Guests() {
             <h1 className="m-2 p-2">{item.name}</h1>
           // </div>
         ))}
-
-
       </div>
     </div>
   );

@@ -3,7 +3,7 @@ import logo from "../assets/logo.jpeg";
 
 export default function Navbar() {
     return (
-        <div className="flex items-center justify-between  bg-blue-200 px-4 py-3  relative">
+        <div className="flex items-center justify-between px-4 py-3  relative">
             <div className="flex items-center ">
                 <img
                     src={logo}
@@ -15,7 +15,7 @@ export default function Navbar() {
                 <h1 className="text-lg font-[Poppins] font-semibold">Morning Footballers Committee</h1>
             </div>
             <div className="flex items-center">
-                <i className="pi pi-list text-5xl cursor-pointer"></i>
+                <i className="pi pi-bars text-5xl cursor-pointer"></i>
             </div>
         </div>
     );
