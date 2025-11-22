@@ -5,7 +5,7 @@ import person2 from "../assets/secretary.jpeg"
 export default function Committee() {
     return (
         <div className="my-4">
-            <h1 className="text-lg font-bold ml-5">Organizing Committee</h1>
+            <h1 className="text-2xl font-serif ml-5">Organizing Committee</h1>
 
             <div className="flex justify-center items-center gap-4 mt-4 mb-0">
                 <img
