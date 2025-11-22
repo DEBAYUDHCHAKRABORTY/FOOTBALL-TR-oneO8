@@ -1,13 +1,13 @@
 import { guests } from "../constatnts/guests";
-import person from "../assets/president.jpeg"
-import person2 from "../assets/secretary.jpeg"
+import person from "../assets/abhijitMisra.jpg"
+import person2 from "../assets/chotonPoddar.png"
 
 
 export default function Guests() {
   return (
     <div className=" py-2">
       <div className="">
-        <h1 className="ml-5 text-2xl font-serif">Chief Guests...</h1>
+        <h1 className="ml-5 text-1xl text-center font-semibold">Chief Guests-</h1>
       </div>
       <div className="flex justify-center items-center gap-6 mt-6">
         <img
