@@ -1,5 +1,5 @@
 export const guests = [
-    {"name": "Abhjit Mishra", "image": ""},
+    {"name": "Adv. Abhjit Mishra", "image": ""},
     {"name": "Annapurna Jewellery", "image": ""},
 
 ]
