@@ -12,7 +12,7 @@ export default function Navbar() {
                 />
             </div>
             <div className="">
-                <h1 className="text-lg font-[Poppins] font-semibold">Morning Footballers Committee</h1>
+                <h1 className="text-zinc-800  bg-gray-200 font-[Poppins] font-semibold">Morning Footballers Committee</h1>
             </div>
             <div className="flex items-center">
                 <i className="pi pi-bars text-5xl cursor-pointer"></i>
