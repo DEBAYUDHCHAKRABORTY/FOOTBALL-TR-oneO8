@@ -6,6 +6,7 @@ import Navbar from "../components/navbar"
 import Matches from "../components/schedule";
 import Sponsors from "../components/sponsers";
 import Committee from "../components/committee";
+import ContactUs from "../components/contact";
 
 export default function HomePage(){
     return(
@@ -14,6 +15,7 @@ export default function HomePage(){
             <FootballBannar/>
             <Matches/>
             <Sponsors/>
+            <ContactUs/>
             <Guests/>
             <Committee/>
             <Footer/>
