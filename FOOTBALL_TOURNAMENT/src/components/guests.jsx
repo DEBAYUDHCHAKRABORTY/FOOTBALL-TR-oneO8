@@ -7,7 +7,7 @@ export default function Guests() {
   return (
     <div className=" py-2">
       <div className="">
-        <h1 className="ml-5 text-1xl text-center font-semibold">Chief Guests-</h1>
+        <h1 className="ml-5 text-2xl text-center font-semibold">Chief Guests-</h1>
       </div>
       <div className="flex justify-center items-center gap-6 mt-6">
         <img
